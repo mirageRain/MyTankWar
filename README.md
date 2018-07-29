@@ -5,9 +5,10 @@
 - 项目地址：[https://github.com/mirageRain/MyTankWar](https://github.com/mirageRain/MyTankWar)
 - 游戏说明：[http://www.mabotao.com/?p=50](http://www.mabotao.com/?p=50)
 - 效果截图：
-![效果截图](http://www.mabotao.com/imgCDN/MyTankWar1.jpg" 效果截图.png")
-![效果截图](http://www.mabotao.com/imgCDN/MyTankWar2.jpg" 效果截图.png")
-![效果截图](http://www.mabotao.com/imgCDN/MyTankWar3.jpg" 效果截图.png")
+
+![效果截图](http://www.mabotao.com/imgCDN/MyTankWar1.jpg "效果截图.png")
+![效果截图](http://www.mabotao.com/imgCDN/MyTankWar2.jpg "效果截图.png")
+![效果截图](http://www.mabotao.com/imgCDN/MyTankWar3.jpg "效果截图.png")
 
 ## 二、操作说明
 - W,S,A,D键控制坦克的方向
